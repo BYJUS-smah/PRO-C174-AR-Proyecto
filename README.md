@@ -1,2 +1,2 @@
 # PRO-C174-AR
-After class project solution fro PRO-C174
+Solución del proyecto para después de la clase PRO-C174
